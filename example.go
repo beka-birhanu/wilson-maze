@@ -1,4 +1,4 @@
-package main
+package maze
 
 func main() {
 	maz, _ := New(10, 10)

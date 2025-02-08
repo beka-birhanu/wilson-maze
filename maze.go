@@ -9,7 +9,7 @@ and reward assignment. Rewards can be dynamically distributed based on proximity
 
 Utility functions enable neighbor detection, move validation, and ASCII visualization of the maze.
 */
-package main
+package maze
 
 import (
 	"errors"

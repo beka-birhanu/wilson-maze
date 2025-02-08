@@ -1,4 +1,4 @@
-package main
+package maze
 
 import game_i "github.com/beka-birhanu/vinom-interfaces/game"
 

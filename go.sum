@@ -1,0 +1,4 @@
+github.com/beka-birhanu/vinom-interfaces v0.0.0-20250206183340-7d270715cd7d h1:u+XQgFIYJQYCV5ZGmo+aB9t5ECUcYsxRSo10fgtLlpQ=
+github.com/beka-birhanu/vinom-interfaces v0.0.0-20250206183340-7d270715cd7d/go.mod h1:riTs7QpVdiowdD9mWGLAYmQ5v0rguVIBzEo993rSTrQ=
+github.com/google/uuid v1.6.0 h1:NIvaJDMOsjHA8n1jAhLSgzrAzy1Hgr+hNrb57e+94F0=
+github.com/google/uuid v1.6.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=

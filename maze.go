@@ -19,7 +19,7 @@ import (
 	"slices"
 	"strings"
 
-	game_i "github.com/beka-birhanu/vinom-interfaces/game"
+	game_i "github.com/beka-birhanu/vinom-common/interfaces/game"
 )
 
 const (

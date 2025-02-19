@@ -1,6 +1,6 @@
 package maze
 
-import game_i "github.com/beka-birhanu/vinom-interfaces/game"
+import game_i "github.com/beka-birhanu/vinom-common/interfaces/game"
 
 // Cell represents a single cell in a maze grid.
 // It includes properties for walls on each side and an associated reward value.

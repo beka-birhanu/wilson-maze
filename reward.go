@@ -5,7 +5,7 @@ import (
 	"math"
 	"math/rand"
 
-	game_i "github.com/beka-birhanu/vinom-interfaces/game"
+	game_i "github.com/beka-birhanu/vinom-common/interfaces/game"
 )
 
 // PopulateReward assigns rewards to maze cells based on the RewardModel.
